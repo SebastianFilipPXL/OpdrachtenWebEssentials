@@ -1,0 +1,26 @@
+body{
+    background-color: #27426d;
+    color: white;
+}
+td{
+    border: 1px solid white;
+    padding: 5px 5px;
+
+}
+
+table{
+    border-spacing: 0px;
+
+}
+.AlbumHeader{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+image{
+    padding: 60px 5px;
+}
+.breedte{
+    width: 350px;
+}

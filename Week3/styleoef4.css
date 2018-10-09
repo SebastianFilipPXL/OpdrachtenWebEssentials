@@ -1,0 +1,35 @@
+table{
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    border-spacing: 0px;
+
+}
+td{
+    border: 2px solid black;
+}
+
+#green{
+    background-color: Green;
+}
+#green1{
+    background-color: Green;
+}
+#red{
+    background-color: Red;
+}
+#red1{
+    background-color: Red;
+}
+#yellow{
+    background-color: Yellow;
+}
+#yellow1{
+    background-color: Yellow;
+}
+#blue{
+    background-color: Blue;
+}
+#blue1{
+    background-color: Blue;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: #d9ddd7;
+    font-family: Verdana, sans-serif;
+}
+h1{
+    color: #70913e;
+}
+p{
+    background-color: #6a7689;
+    color: white;
+    padding: 20px;
+}
+p.highlights{
+    color: yellow;
+    border : 2px solid yellow;
+    margin: auto 20% ;
+    text-align: center;
+}
+
+a:visited{
+    color: white;
+}
+a:hover{
+    color: #6df469
+}

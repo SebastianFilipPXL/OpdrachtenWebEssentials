@@ -1,0 +1,30 @@
+td{
+    border: 1px solid black;
+    width: 120px;
+    text-align: center;
+
+    height: 30px;
+
+}
+thead{
+    background-color: #27426d;
+    color: white;
+}
+tfoot{
+    background-color: #27426d;
+}
+table{
+    border-spacing: 0px;
+
+}
+tbody tr:nth-child(2n+1){
+    background-color: #4f8cef;
+    color: #c7ced8;
+}
+tbody tr:nth-child(2n){
+    background-color: #6facff;
+    color: #c7ced8;
+}
+table tr > td:first-child{
+    color:white;
+}
